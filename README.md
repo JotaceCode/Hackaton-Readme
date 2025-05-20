@@ -90,7 +90,7 @@ Estos son los modelos de datos principales utilizados en la API, que representan
 * **`User`**
     *`id` (Integer, Primary key)
     *`name` (String, guarda el username del usuario en Clerk)
-    * 
+    
 
 * **`Meal`**
     * `id` (Integer, Primary Key)
